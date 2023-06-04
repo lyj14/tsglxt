@@ -2,8 +2,11 @@
 
 
 前端页面设计涉及技术：html+css+js+vue
+
 后端开发设计技术：javase+servlet+jdbc+maven+mybatis+sprinmvc+springboot
+
 服务器：Tomcat
+
 开发与调试工具： IDEA+MySQL+Navicat
 
 ![image](https://github.com/lyj14/tsglxt/assets/74772880/8f6fc4a8-d1c2-45ad-9f8c-5b1a7fb2f2b1)
